@@ -1,0 +1,15 @@
+C:\Users\berge\OneDrive\Desktop\Grand Circus\Labs\Unit 3\DiceRoller\obj\Debug\net6.0\DiceRoller.csproj.AssemblyReference.cache
+C:\Users\berge\OneDrive\Desktop\Grand Circus\Labs\Unit 3\DiceRoller\obj\Debug\net6.0\DiceRoller.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berge\OneDrive\Desktop\Grand Circus\Labs\Unit 3\DiceRoller\obj\Debug\net6.0\DiceRoller.AssemblyInfoInputs.cache
+C:\Users\berge\OneDrive\Desktop\Grand Circus\Labs\Unit 3\DiceRoller\obj\Debug\net6.0\DiceRoller.AssemblyInfo.cs
+C:\Users\berge\OneDrive\Desktop\Grand Circus\Labs\Unit 3\DiceRoller\obj\Debug\net6.0\DiceRoller.csproj.CoreCompileInputs.cache
+C:\Users\berge\OneDrive\Desktop\Grand Circus\Labs\Unit 3\DiceRoller\bin\Debug\net6.0\DiceRoller.exe
+C:\Users\berge\OneDrive\Desktop\Grand Circus\Labs\Unit 3\DiceRoller\bin\Debug\net6.0\DiceRoller.deps.json
+C:\Users\berge\OneDrive\Desktop\Grand Circus\Labs\Unit 3\DiceRoller\bin\Debug\net6.0\DiceRoller.runtimeconfig.json
+C:\Users\berge\OneDrive\Desktop\Grand Circus\Labs\Unit 3\DiceRoller\bin\Debug\net6.0\DiceRoller.dll
+C:\Users\berge\OneDrive\Desktop\Grand Circus\Labs\Unit 3\DiceRoller\bin\Debug\net6.0\DiceRoller.pdb
+C:\Users\berge\OneDrive\Desktop\Grand Circus\Labs\Unit 3\DiceRoller\obj\Debug\net6.0\DiceRoller.dll
+C:\Users\berge\OneDrive\Desktop\Grand Circus\Labs\Unit 3\DiceRoller\obj\Debug\net6.0\refint\DiceRoller.dll
+C:\Users\berge\OneDrive\Desktop\Grand Circus\Labs\Unit 3\DiceRoller\obj\Debug\net6.0\DiceRoller.pdb
+C:\Users\berge\OneDrive\Desktop\Grand Circus\Labs\Unit 3\DiceRoller\obj\Debug\net6.0\DiceRoller.genruntimeconfig.cache
+C:\Users\berge\OneDrive\Desktop\Grand Circus\Labs\Unit 3\DiceRoller\obj\Debug\net6.0\ref\DiceRoller.dll
